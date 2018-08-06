@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_id: 1
+  end_id: 1
+  messages_ary: MyText
+
+two:
+  start_id: 1
+  end_id: 1
+  messages_ary: MyText
